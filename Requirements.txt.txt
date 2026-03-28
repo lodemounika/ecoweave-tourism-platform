@@ -1,0 +1,16 @@
+# Backend Dependencies
+express
+cors
+body-parser
+pg
+
+# Frontend Dependencies (if using React)
+react
+react-dom
+
+# Runtime
+nodejs
+npm
+
+# Database
+postgresql
