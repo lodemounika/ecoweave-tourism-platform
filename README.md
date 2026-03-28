@@ -15,7 +15,7 @@ The system integrates **frontend, backend, and database technologies** to delive
 
 ## 🎥 Project Demo
 
-👉 [Watch Full Demo (8:45 min)]([PASTE_FULL_VIDEO_LINK][(https://drive.google.com/file/d/1E1BO8oq1bUpBjbEk6mHYpox2Tz5wBy-J/view?usp=drive_link)])
+👉 [Watch Full Demo (8:45 min)](https://drive.google.com/file/d/1E1BO8oq1bUpBjbEk6mHYpox2Tz5wBy-J/view?usp=drive_link)
 
 ---
 
